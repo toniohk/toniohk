@@ -1,8 +1,6 @@
 <p align="center">
   <a href="https://github.com/toniohk"><img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack%20Web%20Developer;Hybrid%20App%20Developer;Blockchain%20Developer;8%2B%20Years%20of%20Software%20experience;Always%20Learning%20New%20Tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
-<br />
-
 
 <h2 align="left">About me</h2>
 
