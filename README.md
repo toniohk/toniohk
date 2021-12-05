@@ -9,6 +9,7 @@ I'm a full stack software engineer who specialized in web and blockchain.
 <br>
 My expertise lies in building the marketplace with smart contracts, cryptocurrency, blockchain, building MVPs with elegant, UI/UX with modern front-end frameworks, hybrid apps, scalable microservices, infrastructure modeling, AWS, and deployments.
 </p>
+<div align="center">
 <a href="mailto:toniohiraki@gmail.com" target="_blank">
   <img src=https://img.shields.io/badge/gmail-%23ea4335.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 </a>
@@ -24,7 +25,10 @@ My expertise lies in building the marketplace with smart contracts, cryptocurren
 <a href="https://www.linkedin.com/in/tonio-hiraki-b24991225" target="_blank">
   <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-
+<a href="https://medium.com/@toniohiraki" target="_blank">
+  <img src=https://img.shields.io/badge/medium-%23000000.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+</a>
+</div>
 
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
