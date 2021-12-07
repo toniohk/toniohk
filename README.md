@@ -13,7 +13,7 @@ My expertise lies in building the marketplace with smart contracts, cryptocurren
 <a href="mailto:toniohiraki@gmail.com" target="_blank">
   <img src=https://img.shields.io/badge/gmail-%23ea4335.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 </a>
-<a href="https://t.me/angelic_smile" target="_blank">
+<a href="https://t.me/angelicsmile028" target="_blank">
   <img src=https://img.shields.io/badge/telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
 </a>
 <a href="https://join.skype.com/invite/vWuTVKaaENEA" target="_blank">
