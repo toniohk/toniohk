@@ -7,7 +7,7 @@
 <p>
 I'm a full stack software engineer who specialized in web and blockchain.
 <br>
-My expertise lies in building the marketplace with smart contracts, cryptocurrency, blockchain, building MVPs with elegant, UI/UX with modern front-end frameworks, hybrid apps, scalable microservices, infrastructure modeling, AWS, and deployments.
+My expertise lies in building the Websites, Hybrid apps, Dapp, Defi with elegant UI/UX, modern front-end frameworks, scalable microservices, infrastructure modeling, smart contracts, cryptocurrency and AWS.
 </p>
 <div align="center">
 <a href="mailto:toniohiraki@gmail.com" target="_blank">
